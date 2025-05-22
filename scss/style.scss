@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+.ssection_link {
+    color: red;
+
+    &:hover {
+        opacity: .5;
+    }
+}

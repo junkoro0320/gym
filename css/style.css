@@ -1,0 +1,11 @@
+body {
+  background-color: aqua;
+}
+
+.ssection_link {
+  color: red;
+}
+.ssection_link:hover {
+  opacity: 0.5;
+}
+/*# sourceMappingURL=style.css.map */
